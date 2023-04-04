@@ -4,22 +4,22 @@
 <img width="295" alt="image" src="https://user-images.githubusercontent.com/43515480/229712011-17903b23-b920-4cdc-9246-64f31e351b37.png">
 
 
-# Stages <br1>
-# Stage-1:<br1>
-  # Task-1: Build Docker Image and push to Azure Container Registry ACR<br1>
-  # Task-2: Copy kube-manifest files to Build Artifact Directory<br1>
-  # Task-3: Publish build articats to Azure Pipelines<br1>
-# Pipeline Hierarchial Flow: Stages -> Stage -> Jobs -> Job -> Steps -> Task1, Task2, Task3  <br1>
+ Stages <br1>
+ Stage-1:<br1>
+   Task-1: Build Docker Image and push to Azure Container Registry ACR<br1>
+   Task-2: Copy kube-manifest files to Build Artifact Directory<br1>
+   Task-3: Publish build articats to Azure Pipelines<br1>
+   Pipeline Hierarchial Flow: Stages -> Stage -> Jobs -> Job -> Steps -> Task1, Task2, Task3  <br1>
 
 trigger:<br1>
 - master<br1>
 
-# Variables<br1>
+Variables<br1>
 variables:<br1>
   tag: '$(Build.BuildId)'<br1>
 
 stages:<br1>
-# Build Stage <br1>
+ Build Stage <br1>
 - stage: Build<br1>
   displayName: Build Stage<br1>
   jobs:<br1>
@@ -29,7 +29,7 @@ stages:<br1>
       vmImage: 'ubuntu-latest'<br1>
     steps: <br1>
 
-    # Task-1: Build Docker Image and push to Azure Container Registry ACR<br1>
+    Task-1: Build Docker Image and push to Azure Container Registry ACR<br1>
     - task: Docker@2<br1>
       inputs:<br1>
         containerRegistry: 'manual-aksdevopsacr-svc'<br1>
@@ -39,7 +39,7 @@ stages:<br1>
         tags: |<br1>
           $(tag)<br1>
           $(Build.SourceVersion)<br1>
-## Publish Artifacts pipeline code in addition to Build and Push          <br1>
+Publish Artifacts pipeline code in addition to Build and Push          <br1>
     - bash: echo Contents in System Default Working Directory; ls -R $(System.DefaultWorkingDirectory)        <br1>
     - bash: echo Before copying Contents in Build Artifact Directory; ls -R $(Build.ArtifactStagingDirectory)      <br1>  
     # Task-2: Copy files (Copy files from a source folder to target folder)<br1>
