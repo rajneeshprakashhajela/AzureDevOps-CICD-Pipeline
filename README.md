@@ -61,5 +61,6 @@ Publish Artifacts pipeline code in addition to Build and Push          <br1>
         publishLocation: 'Container'<br1>
     
 
+![image](https://user-images.githubusercontent.com/43515480/229738853-7eb87860-f7c3-4eb5-9124-2576cd9e8936.png)
 
 
