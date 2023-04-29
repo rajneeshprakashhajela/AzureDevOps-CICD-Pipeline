@@ -84,6 +84,5 @@ https://medium.com/adessoturkey/owasp-zap-security-tests-in-azure-devops-fe891f5
 
 ![image](https://user-images.githubusercontent.com/43515480/235287553-0ffc4194-01ab-4268-b2a2-783e9e326d0b.png)
 ![image](https://user-images.githubusercontent.com/43515480/235287597-7018c9f6-b319-420e-a173-463626ccda8a.png)
- ![image](https://user-images.githubusercontent.com/43515480/235287614-55da7dce-4248-45b9-bf03-c661c2f35767.png)
- <h1> Lint Configuration </h1>
+![image](https://user-images.githubusercontent.com/43515480/235287614-55da7dce-4248-45b9-bf03-c661c2f35767.png)
 ![image](https://user-images.githubusercontent.com/43515480/235287877-f39cafa3-2cd0-4213-a205-57e4c8c1afdc.png)
