@@ -1,5 +1,13 @@
-# AzureDevOps-CICD-Pipeline
-![image](https://user-images.githubusercontent.com/43515480/229700132-257192a0-1212-4543-9dcb-a6a4761cc42b.png)
+
+https://www.youtube.com/watch?v=m1By_JO6xTI&list=PLNijTL1qMrSRZKqqvp-rM84TI0-vMT07J&index=2
+
+
+
+Predefined Variable:
+https://learn.microsoft.com/en-us/azure/devops/pipelines/build/variables?view=azure-devops&tabs=yaml
+![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/7dd407e1-cc6c-4a98-b289-5ecf15aeb48e)
+
+# AzureDevOps-CICD-Pipeline![image](https://user-images.githubusercontent.com/43515480/229700132-257192a0-1212-4543-9dcb-a6a4761cc42b.png)
 
 <img width="295" alt="image" src="https://user-images.githubusercontent.com/43515480/229712011-17903b23-b920-4cdc-9246-64f31e351b37.png">
 
