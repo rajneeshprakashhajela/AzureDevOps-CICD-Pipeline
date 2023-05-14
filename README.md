@@ -13,6 +13,7 @@ move connection string in variable
 ![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/99f4eb3e-361e-4b07-b046-a6d19c6e1e39)
 ![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/2f7c60ae-9538-417d-bd25-d889f961e9d5)
 ![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/8bf73777-4001-4ec5-a476-44ad09ca2d28)
+![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/c0252aba-0b02-4b03-bcc5-d8cc3778a2bb)
 ![Uploading image.png…]()
 
 https://www.youtube.com/watch?v=m1By_JO6xTI&list=PLNijTL1qMrSRZKqqvp-rM84TI0-vMT07J&index=2
