@@ -2,6 +2,17 @@
 get connection string for devOps pipeline
 check userid and password  (mark your password)
 ![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/86d402f4-900e-4499-bb08-c791b1f59bf4)
+![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/d43a8f57-add3-4a1d-b433-f3e376b0c0f7)
+![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/304c2494-396e-4d9d-8dbb-a1e3217f20f8)
+
+move connection string in variable
+![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/bd7c74e2-15b7-49ed-833f-2d5c2c61eebe)
+
+![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/61c85413-28b8-4d92-b991-a782cdbf8426)
+![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/06c7d540-32db-43c9-9d58-ede5df0b83cd)
+![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/99f4eb3e-361e-4b07-b046-a6d19c6e1e39)
+![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/2f7c60ae-9538-417d-bd25-d889f961e9d5)
+![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/8bf73777-4001-4ec5-a476-44ad09ca2d28)
 ![Uploading image.png…]()
 
 https://www.youtube.com/watch?v=m1By_JO6xTI&list=PLNijTL1qMrSRZKqqvp-rM84TI0-vMT07J&index=2
