@@ -1,3 +1,8 @@
+![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/f90f4f7b-cf10-4a3f-95aa-1f3cb96531b9)
+get connection string for devOps pipeline
+check userid and password  (mark your password)
+![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/86d402f4-900e-4499-bb08-c791b1f59bf4)
+![Uploading image.png…]()
 
 https://www.youtube.com/watch?v=m1By_JO6xTI&list=PLNijTL1qMrSRZKqqvp-rM84TI0-vMT07J&index=2
 
