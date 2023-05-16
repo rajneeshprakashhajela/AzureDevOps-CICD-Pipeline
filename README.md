@@ -1,3 +1,8 @@
+reduce pipeline using caching
+https://learn.microsoft.com/en-us/azure/devops/pipelines/release/caching?view=azure-devops
+![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/13bfd3d5-35b3-4f42-9e62-80933cf2278b)
+
+
 ![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/f90f4f7b-cf10-4a3f-95aa-1f3cb96531b9)
 get connection string for devOps pipeline
 check userid and password  (mark your password)
