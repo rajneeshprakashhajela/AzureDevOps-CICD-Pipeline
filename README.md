@@ -1,3 +1,11 @@
+https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-22-04
+![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/67cd3d5c-fc4b-45bf-bac7-71fa144a0d9f)
+wget -q -O - https://pkg.jenkins.io/debian-stable/jenkins.io.key |sudo gpg --dearmor -o /usr/share/keyrings/jenkins.gpg
+<br/>
+<br/>
+
+sudo sh -c 'echo deb [signed-by=/usr/share/keyrings/jenkins.gpg] http://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sources.list.d/jenkins.list'
+
 reduce pipeline using caching
 https://learn.microsoft.com/en-us/azure/devops/pipelines/release/caching?view=azure-devops
 ![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/13bfd3d5-35b3-4f42-9e62-80933cf2278b)
