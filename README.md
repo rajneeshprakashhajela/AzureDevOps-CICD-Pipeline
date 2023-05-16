@@ -1,4 +1,6 @@
 Query - task not found (we can create query in devops)
+![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/5016017b-3064-47df-902d-4e9ca5ddb8e4)
+
 ![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/4eeee896-8108-4b2f-b5ab-0513d9decc6d)
 
 ![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/3111549a-64ba-42c9-82b8-89344dd5abe2)
