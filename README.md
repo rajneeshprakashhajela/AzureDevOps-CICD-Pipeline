@@ -1,3 +1,9 @@
+create policy
+![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/77a4b989-ba3f-4a0d-8821-d10bf1e40e92)
+![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/73b625d4-5629-49ea-8b02-99ddea43345a)
+![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/8af50f6d-5b1f-41b5-b42a-d19dd35fa4d2)
+
+
 Query - task not found (we can create query in devops)
 ![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/5016017b-3064-47df-902d-4e9ca5ddb8e4)
 
