@@ -1,3 +1,5 @@
+![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/3111549a-64ba-42c9-82b8-89344dd5abe2)
+
 https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-22-04
 ![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/67cd3d5c-fc4b-45bf-bac7-71fa144a0d9f)
 wget -q -O - https://pkg.jenkins.io/debian-stable/jenkins.io.key |sudo gpg --dearmor -o /usr/share/keyrings/jenkins.gpg
