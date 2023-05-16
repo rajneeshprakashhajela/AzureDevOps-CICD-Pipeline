@@ -1,3 +1,9 @@
+Install docker on linux machine
+https://docs.docker.com/engine/install/ubuntu/#set-up-the-repository
+https://docs.docker.com/desktop/install/ubuntu/
+
+![Uploading image.png…]()
+
 create policy
 ![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/77a4b989-ba3f-4a0d-8821-d10bf1e40e92)
 ![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/73b625d4-5629-49ea-8b02-99ddea43345a)
