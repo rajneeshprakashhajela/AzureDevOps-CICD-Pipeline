@@ -1,6 +1,16 @@
 "Remote Origin Already Exists" Error: Why Does It Happen?
 https://www.cloudbees.com/blog/remote-origin-already-exists-error
 
+Step 1 - if exists
 git remote
 git remote -v
 git remote remove origin
+
+step 2 (Prepare in local)
+git add .
+git branch -M master 
+git commit -m "Test"
+
+Step 3 push on master
+git remote add origin https://RajneeshPHajela0603@dev.azure.com/RajneeshPHajela0603/Mulesofttest/_git/Mulesofttest  
+git push -u origin --all                                                                               
