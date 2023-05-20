@@ -1,3 +1,5 @@
+<img width="769" alt="image" src="https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/973c8649-d8c6-4d4c-a822-3735660ac847">
+
 Install docker on linux machine
 https://docs.docker.com/engine/install/ubuntu/#set-up-the-repository
 https://docs.docker.com/desktop/install/ubuntu/
