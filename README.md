@@ -1,10 +1,38 @@
+pool:
+  vmImage: ubuntu-latest
+stages:
+  - stage: Stage1
+    displayName: 'Bash Script Stage1'
+    jobs:
+    - job: Job1
+  - stage: Stage2
+    displayName: 'Bash Script Stage2'
+    dependsOn: []
+    jobs:
+     - job: Job3
+  - stage: Stage3
+    displayName: 'Bash Script Stage3'
+    dependsOn: []
+    jobs:
+     - job: Job4
+  - stage: Stage4
+    displayName: 'Bash Script Stage4'
+    dependsOn: []
+    jobs:
+     - job: Job4
+   
+   ===========
+   ![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/d23ecb23-e9a2-4a52-a940-a5c44d6bbab8)
+
+![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/ae6831d9-ac30-4ce2-a90e-26176c7e6665)
+
 <img width="769" alt="image" src="https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/973c8649-d8c6-4d4c-a822-3735660ac847">
 
 Install docker on linux machine
 https://docs.docker.com/engine/install/ubuntu/#set-up-the-repository
 https://docs.docker.com/desktop/install/ubuntu/
 
-![Uploading image.png…]()
+![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/49da669b-0f66-43a9-a376-261e1b4a753c)
 
 create policy
 ![image](https://github.com/rajneeshprakashhajela/AzureDevOps-CICD-Pipeline/assets/43515480/77a4b989-ba3f-4a0d-8821-d10bf1e40e92)
